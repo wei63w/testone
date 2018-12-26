@@ -1,0 +1,6 @@
+framework module testone {
+  umbrella header "testone-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_testone_Tests {
+  umbrella header "Pods-testone_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
